@@ -86,3 +86,6 @@ sanity_check.py
 
 # OS files
 .DS_Store
+
+# Credentials / secrets
+credentials_ignore.txt
